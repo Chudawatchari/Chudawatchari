@@ -1,7 +1,8 @@
 Hi 👋 My name is Chudawatchari Preedasakulcharoen 
+
 🧪 QA Testing 📊 Data Analytics, Data engineer 💻 SQL / Python 📋 Project Management  
 
-Recent graduate from the Computer innovation for communication, Srinakharinwirot University with experience in software testing, data analysis, and project coordination.  
+Recent graduate from the Computer innovation for communication, Srinakharinwirot University with experience in software testing, data analysis, and project coordination. 
 
 🌍  I'm based in Bangkok, Thailand  
 
